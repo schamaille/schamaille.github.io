@@ -3,7 +3,7 @@ title: "Publications"
 bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 style: center
-fa-icon: sticky-note
+fa-icon: file
 ---
 
 36. Padié S., Morellet N., Hewison A.J.M., Martin J.-L., Bonnot N., Cargnelutti B., Chamaille-Jammes S. 2015. Roe deer at risk: teasing apart habitat selection and landscape constraints in risk exposure at multiple scales. Oikos.
