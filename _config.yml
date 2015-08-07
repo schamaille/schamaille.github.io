@@ -22,8 +22,6 @@ source_link: "https://github.com/t413/SinglePaged"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
-image_path: https://www.dropbox.com/sh/uu3xtegsksxkonf/AADJDtrqxs3fllpscu5jzjy1a?dl=0
-
 
 ### template colors, used site-wide via css ###
 colors:
