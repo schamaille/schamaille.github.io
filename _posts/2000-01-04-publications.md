@@ -2,14 +2,15 @@
 title: "Publications"
 bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
-fa-icon: fa-sticky-note
+style: center
+fa-icon: sticky-note
 ---
 
 36. Padié S., Morellet N., Hewison A.J.M., Martin J.-L., Bonnot N., Cargnelutti B., Chamaille-Jammes S. 2015. Roe deer at risk: teasing apart habitat selection and landscape constraints in risk exposure at multiple scales. Oikos.
 
 35. Le Saout S., Martin J.-L., Blanchard P., Cebe N., Rames J.-L., Chamaillé-Jammes S. 2015. Seeing a ghost? Vigilance and its drivers in a predator-free world. Ethology.
 
-34. Le Saout S.*, Padié S.*, Chamaillé-Jammes S., Côté S., Morellet N., Pattison J., Harris E., Martin J-L. Sous presse. Short-term effects of hunting on naïve deer: behavioral response and consequences on vegetation growth. Canadian Journal of Zoology. (* shared 1st authorship)
+34. Le Saout S., Padié S., Chamaillé-Jammes S., Côté S., Morellet N., Pattison J., Harris E., Martin J-L. Sous presse. Short-term effects of hunting on naïve deer: behavioral response and consequences on vegetation growth. Canadian Journal of Zoology. (* shared 1st authorship)
 
 33. Riotte-Lambert, L., Benhamou, S., Chamaillé-Jammes, S. 2015. How memory-based movement leads to non-territorial spatial segregation. The American Naturalist.
 
